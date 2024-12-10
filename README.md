@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 9.12.2024
+## Date: 10.12.2024
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -157,7 +157,7 @@ The tradition is believed to have started from the reign of Vijayanagara Empire 
 ```
 
 ## OUTPUT
-
+![alt text](dhana/mapapp/static/0.png)
 ![alt text](dhana/mapapp/static/1.png)
 ![alt text](dhana/mapapp/static/2.png)
 ![alt text](dhana/mapapp/static/3.png)
